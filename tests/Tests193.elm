@@ -7,7 +7,7 @@ import Test exposing (Test, describe, test)
 
 suite : Test
 suite =
-    describe "sum"
+    describe "sum test 193"
         [ test "1 + 2 = 3" <|
             \_ ->
                 let
