@@ -19,3 +19,7 @@ elm-test
 npm install --global elm-test-rs
 elm-test-rs
 ```
+
+# Results
+
+![Test results](./doc/test-results.jpg)
